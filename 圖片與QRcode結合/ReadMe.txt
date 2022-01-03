@@ -1,0 +1,3 @@
+genQRCode_TIF.m 這隻用來產生需要的QRCode.tif檔案
+combinePictureAndQRCode.m 這隻用來將照片與QRCode結合
+其他檔案是引用到的function
