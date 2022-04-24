@@ -7,8 +7,6 @@
 %  output:  x  33x33 QR
 % 
 function x=myQR41temp33(y);
-% y=imread('dummyQR41.tif');
-% y=imread('41x41dummy2.tif');
 m=imread('41x41_100mask.tif');
 x=imread('a33dummy.tif');   
 m33=imread('33x33_100mask.tif');
